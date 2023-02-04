@@ -19,20 +19,12 @@
 * MySQL <img src="imgs/mysql.png" width=50px>
 
 
-```
-
-
 <!-- CONTACT -->
 ## Contact
 
 Gihan Herath - [@LinkedIn](https://www.linkedin.com/in/gihanpherath/)
 
 Project Link: [Check the repository on GitHub](https://github.com/gihan-herath/Portfolio-Webpage)
-
-
-
-
-
 
 
 
