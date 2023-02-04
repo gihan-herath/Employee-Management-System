@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 # <b>Employee Management System</b>
 
-<img src="imgs/ems.png" width="800px" height="5000px">
+<img src="imgs/ems.png" width="800px" height="500px">
 
 
 <p>Developed a complete full stack CRUD project using Java, Springboot, HTML, CSS, JavaScript, Bootstrap and MySQL
@@ -24,7 +24,7 @@
 
 Gihan Herath - [@LinkedIn](https://www.linkedin.com/in/gihanpherath/)
 
-Project Link: [Check the repository on GitHub](https://github.com/gihan-herath/Portfolio-Webpage)
+Project Link: [Check the repository on GitHub](https://github.com/gihan-herath/Employee-Management-System)
 
 
 
